@@ -62,7 +62,9 @@
   
 
   
-      ,"page3": {
+
+  
+      ,"page4": {
           "title": "Sample",
           "content": "Sample page for creating menus . I am making a little bit of progress every day! | .",
           "url": "https://shin2712.github.io/blog/sample/",
@@ -92,7 +94,7 @@
   
 
   
-      ,"page11": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://shin2712.github.io/blog/robots.txt",
